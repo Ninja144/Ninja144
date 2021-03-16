@@ -31,7 +31,7 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying to be an IT speci
 <code><img height="20" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></code>
+<code><img height="20" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png"></code>
 <code><img height="20" src=""></code>
 
 🚧 **My tasks for the near future:**
