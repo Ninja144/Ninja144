@@ -21,7 +21,7 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving 
 
 <br />
 
-<img align="right" alt="GIF" src="https://devopedia.org/images/article/54/7602.1513404277.png" width="275" height="140" />
+#<img align="right" alt="GIF" src="https://devopedia.org/images/article/54/7602.1513404277.png" width="275" height="140" />
   
 **Languages and Tools:**  
 
