@@ -21,7 +21,7 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving 
 
 <br />
 
-<img align="right" alt="GIF" src="https://w1.pngwing.com/pngs/99/547/png-transparent-cloud-symbol-devops-business-process-software-development-process-software-deployment-information-technology-implementation-cloud-computing.png" width="600" height="280" />
+<img align="right" alt="GIF" src="https://w1.pngwing.com/pngs/99/547/png-transparent-cloud-symbol-devops-business-process-software-development-process-software-deployment-information-technology-implementation-cloud-computing.png" width="500" height="280" />
   
 **Languages and Tools:**  
 
