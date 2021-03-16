@@ -21,7 +21,7 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving 
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://w1.pngwing.com/pngs/99/547/png-transparent-cloud-symbol-devops-business-process-software-development-process-software-deployment-information-technology-implementation-cloud-computing.png" width="400" height="280" />
   
 **Languages and Tools:**  
 
