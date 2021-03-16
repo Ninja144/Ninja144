@@ -20,7 +20,8 @@
 Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, DevOps and some other interesting technologies. 
 
 <br />
-  
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/QLg1DSnnkrcuANbu2bhsj5FVJmlzgRKPzsqfeAhSuuP1ArQAIZ1BZOy6bZzoc24nOr0r99MuFpIgnQeNLaLZ7Fe7S1Him8U"></code>
