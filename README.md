@@ -17,7 +17,7 @@
 <br />
 <br />
 <br />
-Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, DevOps and some other interesting technologies. 
+Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, Docker and some other interesting technologies. 
 
 <br />
 <br />
