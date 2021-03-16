@@ -33,9 +33,9 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying to be an IT speci
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [x] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Update your profile on Github 
+* [x] Take a Git course on Slurm 
+* [ ] Create your first project on Github    
 <!-- TODO-IST:END -->
