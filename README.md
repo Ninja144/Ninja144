@@ -15,7 +15,6 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-.
 <br />
 <br />
 Hi, my name is CraZZy144 and I am a student. Now I am studying to be an IT specialist. I am learning Git and some other interesting technologies. 
