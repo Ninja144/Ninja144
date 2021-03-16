@@ -17,7 +17,7 @@
 
 <br />
 
-Привет, меня зовут CraZZy144, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Hi, my name is CraZZy144 and I am a student. Now I am studying to be an IT specialist. I am learning Git and some other interesting technologies. 
 
 <br />
 
