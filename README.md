@@ -17,9 +17,7 @@
 <br />
 .
 <br />
-
 <br />
-
 Hi, my name is CraZZy144 and I am a student. Now I am studying to be an IT specialist. I am learning Git and some other interesting technologies. 
 
 <br />
