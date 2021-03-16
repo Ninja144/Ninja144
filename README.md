@@ -36,7 +36,7 @@ Hi, my name is CraZZy144 and I am a student. Now I am studying in IT and moving 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Update your profile on Github 
-* [x] Take a Git course on Slurm 
+* [ ] Take a Git course on Slurm 
 * [ ] Take a Docker course on Slurm 
 * [ ] Create your first project on Github    
 <!-- TODO-IST:END -->
