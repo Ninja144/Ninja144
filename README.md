@@ -27,13 +27,13 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 <code><img height="20" src="https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="20" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/Security/aws-single-sign-on/AWS-600x400.d644956b44a96938adfe2dc8cd1aa49f072d3fc8.jpg"></code>
 <code><img height="20" src="https://248006.selcdn.ru/main/upload/setka_images/15592623092019_27e9aa5bdf801f94f7728fe14d1ac08405e5a691.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
+
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
