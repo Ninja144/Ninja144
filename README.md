@@ -26,7 +26,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 **Languages and Tools:**  
 
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/QLg1DSnnkrcuANbu2bhsj5FVJmlzgRKPzsqfeAhSuuP1ArQAIZ1BZOy6bZzoc24nOr0r99MuFpIgnQeNLaLZ7Fe7S1Him8U"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw1VnfVUK9wZdQ6pqiyKGA7F&ust=1616102040154000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCotbKfuO8CFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
