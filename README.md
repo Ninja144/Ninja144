@@ -28,6 +28,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/QLg1DSnnkrcuANbu2bhsj5FVJmlzgRKPzsqfeAhSuuP1ArQAIZ1BZOy6bZzoc24nOr0r99MuFpIgnQeNLaLZ7Fe7S1Him8U"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png"></code>
+<code><img height="20" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/Security/aws-single-sign-on/AWS-600x400.d644956b44a96938adfe2dc8cd1aa49f072d3fc8.jpg"></code>
