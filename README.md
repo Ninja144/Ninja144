@@ -25,7 +25,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg"></code>
+<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
