@@ -33,7 +33,6 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="20" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
 <code><img height="20" src="https://d1.awsstatic.com/Security/aws-single-sign-on/AWS-600x400.d644956b44a96938adfe2dc8cd1aa49f072d3fc8.jpg"></code>
 <code><img height="20" src="https://248006.selcdn.ru/main/upload/setka_images/15592623092019_27e9aa5bdf801f94f7728fe14d1ac08405e5a691.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/243/344/png-clipart-ansible-openshift-red-hat-github-management-sina-weibo-angle-text.png"></code>
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
