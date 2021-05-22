@@ -1,4 +1,10 @@
-### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello! 
+  
+Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, Docker and some other interesting technologies. 
+
+### My contacts
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/crazzy144">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -17,7 +23,6 @@
 <br />
 <br />
 <br />
-Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, Docker and some other interesting technologies. 
 
 <br />
 <br />
