@@ -8,7 +8,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://twitter.com/CraZZy_144">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/gjxesPV.png" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
