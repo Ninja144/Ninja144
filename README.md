@@ -20,12 +20,6 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <br />
-<br />
-<br />
-
-<br />
-<br />
-<br />
 
 **Languages and Tools:**  
 
