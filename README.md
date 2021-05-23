@@ -36,8 +36,8 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Update your profile on Github 
-* [x] Take a Git course on Slurm 
+* [x] Get a kubernetes certificate 
+* [x] 
 * [x] Take a Docker course on Slurm 
 * [ ] Create your first project on Github    
 <!-- TODO-IST:END -->
