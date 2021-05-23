@@ -11,7 +11,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
   <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/gjxesPV.png" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/640px-Discord-Logo-Color.svg.png" />
 </a>
 <a href="https://t.me/CraZZy_144">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
