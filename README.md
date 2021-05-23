@@ -23,7 +23,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 ### My skills:
 
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="26" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
 <code><img height="20" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
