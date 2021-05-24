@@ -1,6 +1,6 @@
 ## Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
-Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Git, Docker and some other interesting technologies. 
+Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Docker, Kubernetes, Ansible and some other interesting technologies. 
 
 ### My contacts
   
