@@ -37,8 +37,8 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Get a Kubernetes certificate on Slurm
-* [ ] Take a AWS course on Udemy
-* [ ] Take a Ansible course on Slurm
-* [ ] Take a Teraform course on Udemy 
+* [ ] Take a AWS course
+* [ ] Take a Ansible course
+* [ ] Take a Teraform course
 * [ ] Create your first project on Github    
 <!-- TODO-IST:END -->
