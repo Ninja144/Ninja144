@@ -33,7 +33,6 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="26" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="26" alt="Ansible" title="Ansible" src="https://248006.selcdn.ru/main/upload/setka_images/15592623092019_27e9aa5bdf801f94f7728fe14d1ac08405e5a691.png"></code>
 <code><img height="26" alt="AWS" title="AWS" src="https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png"></code>
-
 <br />
 
 ### Work experience
