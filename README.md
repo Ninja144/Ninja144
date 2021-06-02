@@ -34,6 +34,13 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="26" alt="Ansible" title="Ansible" src="https://248006.selcdn.ru/main/upload/setka_images/15592623092019_27e9aa5bdf801f94f7728fe14d1ac08405e5a691.png"></code>
 <code><img height="26" alt="AWS" title="AWS" src="https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png"></code>
 
+<br />
+
+### Work experience
+
+* March 2021 - May 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
+
+
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Get a Kubernetes certificate on Slurm
