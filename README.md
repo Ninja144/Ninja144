@@ -37,8 +37,9 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 ### Work experience
 
-* March 2021 - May 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
+* March 2021 - May 2021. DevOps Engineer @ [Southbridge](https://southbridge.io). Remotely
 
+<br />
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
