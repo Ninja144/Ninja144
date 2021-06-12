@@ -21,10 +21,9 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 </a>
 <br />
 
-### My skills
+### Hard skills
 
 <code><img height="26" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="26" alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="26" alt="Github" title="Github" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
 <code><img height="26" alt="Gitlab" title="Gitlab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="26" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
