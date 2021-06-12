@@ -40,6 +40,12 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 
 <br />
 
+### Education
+
+* Business College. Computer Networks. Kaliningrad
+
+<br />
+
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Get a Kubernetes certificate on Slurm
