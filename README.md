@@ -31,7 +31,6 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="26" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
 <code><img height="26" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="26" alt="AWS" title="AWS" src="https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png"></code>
-<code><img height="26" alt="AWS" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"></code>
 <br />
 
 ### Work experience
