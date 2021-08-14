@@ -32,7 +32,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="25" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="30" alt="SQL" title="SQL" src="https://i.ytimg.com/vi/ZTTNzxsO1SQ/maxresdefault.jpg"></code>
 <code><img height="25" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
-<code><img height="25" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
+<code><img height="30" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
 https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png
 <br />
