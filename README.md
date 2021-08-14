@@ -5,19 +5,19 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 ### My contacts
   
 <a href="https://vk.com/crazzy144">
-  <img align="left" alt="VKontakte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
+  <img align="left" alt="VKontakte" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
 </a>
 <a href="https://twitter.com/CraZZy_144">
-  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/gjxesPV.png" />
+  <img align="left" alt="Twitter" width="25px" src="https://i.imgur.com/gjxesPV.png" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
-  <img align="left" alt="Discord" width="22px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
+  <img align="left" alt="Discord" width="25px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
 </a>
 <a href="https://t.me/CraZZy_144">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
+  <img align="left" alt="Abhishek's Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
 </a>
 <a href="https://www.instagram.com/crazzy_144">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
+  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <br />
 
