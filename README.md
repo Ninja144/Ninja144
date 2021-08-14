@@ -34,7 +34,6 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
-https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png
 <br />
 
 ### Work experience
