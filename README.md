@@ -21,6 +21,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 </a>
 <br />
 
+<br />
 
 ### Hard skills
 
