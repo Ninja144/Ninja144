@@ -53,5 +53,4 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 * [x] Write a bot in python
 * [ ] Create a data visualization app
 * [ ] Take a Ansible course
-//[ ] Take a Teraform course
 <!-- TODO-IST:END -->
