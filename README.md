@@ -50,7 +50,8 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <!-- TODO-IST:START -->
 * [x] Get a Kubernetes certificate on Slurm
 * [x] Take a AWS course
+* [x] Write a bot in python
+* [ ] Create a data visualization app
 * [ ] Take a Ansible course
 * [ ] Take a Teraform course
-* [ ] Create your first project on Github    
 <!-- TODO-IST:END -->
