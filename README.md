@@ -30,7 +30,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="25" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
 <code><img height="25" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="25" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
-<code><img height="25" alt="SQL" title="SQL" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
+<code><img height="25" alt="SQL" title="SQL" src="https://img2.freepng.ru/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code>
 <code><img height="25" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="25" alt="AWS" title="AWS" src="https://cdn.ait.in.ua/wp-content/uploads/2019/04/AWS-logo.png"></code>
 <br />
