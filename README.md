@@ -5,7 +5,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 ### My contacts
   
 <a href="https://vk.com/crazzy144">
-  <img align="left" alt="VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
+  <img align="left" alt="VKontakte" title="Docker" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
 </a>
 <a href="https://twitter.com/CraZZy_144">
   <img align="left" alt="Twitter" width="30px" src="https://i.imgur.com/gjxesPV.png" />
