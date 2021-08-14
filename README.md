@@ -5,19 +5,19 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 ### My contacts
   
 <a href="https://vk.com/crazzy144">
-  <img align="left" alt="VKontakte" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
+  <img align="left" alt="VKontakte" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
 </a>
 <a href="https://twitter.com/CraZZy_144">
-  <img align="left" alt="Twitter" width="25px" src="https://i.imgur.com/gjxesPV.png" />
+  <img align="left" alt="Twitter" width="35px" src="https://i.imgur.com/gjxesPV.png" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
-  <img align="left" alt="Discord" width="25px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
+  <img align="left" alt="Discord" width="35px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
 </a>
 <a href="https://t.me/CraZZy_144">
-  <img align="left" alt="Abhishek's Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
+  <img align="left" alt="Abhishek's Telegram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
 </a>
 <a href="https://www.instagram.com/crazzy_144">
-  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <br />
 
@@ -30,7 +30,7 @@ Hi, my name is Vadim and I am a student. Now I am studying in IT and moving in t
 <code><img height="35" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
-<code><img height="30" alt="SQL" title="SQL" src="https://i.ytimg.com/vi/ZTTNzxsO1SQ/maxresdefault.jpg"></code>
+<code><img height="35" alt="SQL" title="SQL" src="https://i.ytimg.com/vi/ZTTNzxsO1SQ/maxresdefault.jpg"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
