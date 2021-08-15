@@ -9,9 +9,6 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <a href="https://vk.com/crazzy144">
   <img align="left" alt="VKontakte" title="VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
 </a>
-<a href="https://twitter.com/CraZZy_144">
-  <img align="left" alt="Twitter" title="Twitter" width="30px" src="https://i.imgur.com/gjxesPV.png" />
-</a>
 <a href="mailto:vadimkubs@gmail.com">
   <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
 </a>
