@@ -5,12 +5,13 @@ Hi, My name is Vadim and I am a student.
 Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Docker, Kubernetes, CI/CD and some other interesting technologies. Have experience writing bots in python.
 
 ### My contacts
-  
+  https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63
+  https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png
 <a href="https://vk.com/crazzy144">
   <img align="left" alt="VKontakte" title="VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
 </a>
 <a href="mailto:vadimkubs@gmail.com">
-  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
+  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
   <img align="left" alt="Discord" title="Discord" width="30px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
