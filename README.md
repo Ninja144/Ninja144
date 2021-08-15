@@ -12,6 +12,9 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <a href="https://twitter.com/CraZZy_144">
   <img align="left" alt="Twitter" title="Twitter" width="30px" src="https://i.imgur.com/gjxesPV.png" />
 </a>
+<a href="mailto:vadimkubs@gmail.com">
+  <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
+</a>
 <a href="https://discord.gg/ArBGPjFf9k">
   <img align="left" alt="Discord" title="Discord" width="30px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
 </a>
