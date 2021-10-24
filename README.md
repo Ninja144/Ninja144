@@ -37,7 +37,6 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <code><img height="35" alt="SQL" title="SQL" src="https://i.ytimg.com/vi/ZTTNzxsO1SQ/maxresdefault.jpg"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
-<code><img height="35" alt="Nexus" title="Nexus" src="https://miro.medium.com/max/256/1*2b4k1_SmKkNRgqZV-NMFQg.png"></code>
 
 <br />
 
