@@ -28,7 +28,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 ### Hard skills
 
 <code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="35" alt="Ansible" title="Ansible" src="https://w7.pngwing.com/pngs/243/344/png-transparent-ansible-openshift-red-hat-github-management-sina-weibo-angle-text-trademark.png"></code>
 <code><img height="35" alt="Kubernetes" title="Kubernetes" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
