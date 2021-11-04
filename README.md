@@ -44,7 +44,8 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 ### Work experience
 
 * March 2021 - May 2021.  DevOps Engineer Intern @ [Southbridge](https://southbridge.io)
-* August 2021 - Now.  System Engineer @ [Baltavtomatika](https://baltgps.ru)
+* August 2021 - October 2021.  System Engineer @ [Baltavtomatika](https://baltgps.ru)
+* October 2021 - Now. Junior DevOps Enginner @ [Neoflex](https://neoflex.ru)
 
 
 ### Education
@@ -55,9 +56,9 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Get a Kubernetes certificate on Slurm
-* [x] Take a AWS course
-* [x] Write a bot in python
-* [ ] Create a data visualization app
-* [ ] Take a Ansible course
+* [x] Explore the GitLab CI tool
+* [x] Make a project using GitLab CI
+* [x] Study the Jenkins
+* [ ] Deploy big data infrastructure
+* [ ] Study the TeamCity tool
 <!-- TODO-IST:END -->
