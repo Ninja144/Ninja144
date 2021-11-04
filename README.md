@@ -45,7 +45,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 
 * March 2021 - May 2021.  DevOps Engineer Intern @ [Southbridge](https://southbridge.io)
 * August 2021 - October 2021.  System Engineer @ [Baltavtomatika](https://baltgps.ru)
-* October 2021 - Now. Junior DevOps Enginner @ [Neoflex](https://neoflex.ru)
+* October 2021 - Now.  DevOps Enginner @ [Neoflex](https://neoflex.ru)
 
 
 ### Education
