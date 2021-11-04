@@ -31,6 +31,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="35" alt="Kubernetes" title="Kubernetes" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
+<code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
 <code><img height="35" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
