@@ -36,7 +36,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
-<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fapache-hadoop-logo%2F169586&psig=AOvVaw0U0gG9wlOpuQG7Buth9kyC&ust=1639816406697000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKji2qu26vQCFQAAAAAdAAAAABAL"></code>
+<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://img2.freepng.ru/20181127/xq/kisspng-apache-hadoop-big-data-mapr-hadoop-distributed-fil-5bfdcb4fe2c683.2931986215433593119289.jpg"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
