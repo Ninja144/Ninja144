@@ -35,7 +35,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <code><img height="35" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
-<code><img height="35" alt="SQL" title="SQL" src="https://i.ytimg.com/vi/ZTTNzxsO1SQ/maxresdefault.jpg"></code>
+<code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
