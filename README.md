@@ -36,7 +36,7 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
-<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://thumb.tildacdn.com/tild3030-6630-4637-b865-643431653037/-/resize/220x/-/format/webp/hadoop.png"></code>
+<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://banner2.cleanpng.com/20190128/xso/kisspng-apache-hadoop-big-data-computer-software-data-scie-hadoop-and-tyrone-5c4f4554d98c79.8384600315486989648911.jpg"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
