@@ -60,6 +60,6 @@ Now I am studying in IT and moving in the direction of DevOps. Currently I am st
 * [x] Explore the GitLab CI tool
 * [x] Make a project using GitLab CI
 * [x] Study the Jenkins
-* [ ] Deploy big data infrastructure
+* [x] Deploy big data infrastructure
 * [ ] Study the TeamCity tool
 <!-- TODO-IST:END -->
