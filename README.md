@@ -1,8 +1,8 @@
 ## Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
-Hi, My name is Vadim and I am a student. 
+Hi, My name is Vadim and I DevOps engineer. 
 
-Now I am studying in IT and moving in the direction of DevOps. Currently I am studying Docker, Kubernetes, CI/CD and some other interesting technologies. Have experience writing bots in python.
+I am currently working with Apache Hadoop using the Cloudera distribution. I have experience with Docker, writing Pipeline in GitLab CI, Jenkins. Experience in writing Ansible roles, testing roles using Ansible Molecule. Have experience writing bots in Python. I am fond of learning English
 
 ### My contacts
   
