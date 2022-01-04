@@ -29,6 +29,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 <code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="35" alt="Ansible" title="Ansible" src="https://w7.pngwing.com/pngs/243/344/png-transparent-ansible-openshift-red-hat-github-management-sina-weibo-angle-text-trademark.png"></code>
+<code><img height="35" alt="Ansible Molecule" title="Ansible Molecule" src="https://habrastorage.org/files/edc/21b/51f/edc21b51f91f44cfae26159fde4875b5.png"></code>
 <code><img height="35" alt="Kubernetes" title="Kubernetes" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
