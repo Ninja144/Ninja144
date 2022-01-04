@@ -37,7 +37,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
-<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2lqdi1BVhmYj3cvjF2MhxIKIn2T6HmtvkRXSwlAkRzz1W3R_CqxoyR9PMEa1txm1xLCY&usqp=CAU"></code>
+<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://e7.pngegg.com/pngimages/826/16/png-clipart-yellow-elephant-hadoop-logo-icons-logos-emojis-tech-companies.png"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
