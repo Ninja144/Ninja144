@@ -7,7 +7,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 ### My contacts
   
 <a href="https://vk.com/crazzy144">
-  <img align="left" alt="VKontakte" title="VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="mailto:vadimkubs@gmail.com">
   <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
