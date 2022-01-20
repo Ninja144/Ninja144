@@ -62,5 +62,5 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 * [x] Make a project using GitLab CI
 * [x] Study the Jenkins
 * [x] Deploy big data infrastructure
-* [ ] Study the TeamCity tool
+* [x] Study the TeamCity tool
 <!-- TODO-IST:END -->
