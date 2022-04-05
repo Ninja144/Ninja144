@@ -31,10 +31,9 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <code><img height="35" alt="Ansible" title="Ansible" src="https://w7.pngwing.com/pngs/243/344/png-transparent-ansible-openshift-red-hat-github-management-sina-weibo-angle-text-trademark.png"></code>
 <code><img height="35" alt="Ansible Molecule" title="Ansible Molecule" src="https://github.com/CraZZy144/images/blob/main/ansible/ansible-molecule.png?raw=true"></code>
 <code><img height="35" alt="Kubernetes" title="Kubernetes" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
-<code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
+<code><img height="35" alt="Helm" title="Helm" src="https://i0.wp.com/dotsandbrackets.com/wp-content/uploads/2018/07/helm-logo.jpg?fit=1596%2C1626&ssl=1"></code>
+<code><img height="35" alt="GitLab CI" title="GitLab CI" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
-<code><img height="35" alt="CentOS" title="CentOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/640px-CentOS_color_logo.svg.png"></code>
-<code><img height="35" alt="Debian" title="Debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/640px-Openlogo-debianV2.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
 <code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://e7.pngegg.com/pngimages/826/16/png-clipart-yellow-elephant-hadoop-logo-icons-logos-emojis-tech-companies.png"></code>
