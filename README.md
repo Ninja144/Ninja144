@@ -5,10 +5,7 @@ Hi, I'm Vadim and I'm DevOps engineer.
 I am currently working with Apache Hadoop using the Cloudera distribution. I have experience with Docker, Kubernetes, writing Pipeline in GitLab CI, Jenkins. Experience in writing Ansible roles, testing roles using Ansible Molecule. Have experience writing bots in Python. I am fond of learning English
 
 ### My contacts
-  
-<a href="https://www.linkedin.com/in/crazzy144/">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />
-</a>
+
 <a href="https://www.linkedin.com/in/crazzy144/">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 </a>
