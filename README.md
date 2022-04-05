@@ -13,7 +13,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
   <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
 </a>
 <a href="https://discord.gg/ArBGPjFf9k">
-  <img align="left" alt="Discord" title="Discord" width="30px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
+  <img align="left" alt="Discord" title="Discord" width="30px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" />
 </a>
 <a href="https://t.me/CraZZy_144">
   <img align="left" alt="Telegram" title="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
