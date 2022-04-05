@@ -51,7 +51,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 ### Education
 
-* Business College. Computer Networks. Kaliningrad
+* Computer Networks. College of Entrepreneurship. Kaliningrad
 
 <br />
 
