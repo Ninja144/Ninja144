@@ -27,7 +27,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 ### Hard skills
 
-<code><img height="35" alt="Docker" title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Docker.svg/640px-Docker.svg.png"></code>
+<code><img height="35" alt="Docker" title="Docker" src="https://blog.skillfactory.ru/wp-content/uploads/2022/01/vertical-logo-monochromatic-2822952.png"></code>
 <code><img height="35" alt="Ansible" title="Ansible" src="https://w7.pngwing.com/pngs/243/344/png-transparent-ansible-openshift-red-hat-github-management-sina-weibo-angle-text-trademark.png"></code>
 <code><img height="35" alt="Ansible Molecule" title="Ansible Molecule" src="https://github.com/CraZZy144/images/blob/main/ansible/ansible-molecule.png?raw=true"></code>
 <code><img height="35" alt="Kubernetes" title="Kubernetes" src="https://cc.sj-cdn.net/instructor/3b7phrfskg78q-sysdig/courses/1l0o4pww6i815/promo-image.1580659076.png"></code>
