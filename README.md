@@ -9,6 +9,9 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <a href="https://www.linkedin.com/in/crazzy144/">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" />
 </a>
+<a href="https://www.linkedin.com/in/crazzy144/">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+</a>
 <a href="mailto:vadimkubs@gmail.com">
   <img align="left" alt="Gmail" title="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" />
 </a>
