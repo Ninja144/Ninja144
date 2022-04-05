@@ -61,6 +61,6 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 * [x] Study the TeamCity tool
 * [x] Deploy microservice architecture
 * [ ] Study the Terraform tool
-* [ ] Self-develop
+* [∞] Self-develop ∞
 
 <!-- TODO-IST:END -->
