@@ -36,7 +36,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
 <code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
-<code><img height="35" alt="Apache Hadoop" title="Apache Hadoop" src="https://e7.pngegg.com/pngimages/826/16/png-clipart-yellow-elephant-hadoop-logo-icons-logos-emojis-tech-companies.png"></code>
+<code><img height="35" alt="Cloudera (Apache Hadoop)" title="Cloudera (Apache Hadoop)" src="https://yt3.ggpht.com/ytc/AKedOLSyC0xU7DEnbw7NyFasin5l-Ukhubd4NVtsToNKig=s900-c-k-c0x00ffffff-no-rj"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="AWS" title="AWS" src="https://www.marketingmilk.com/wp-content/uploads/2019/07/mm-blog-image-1.png"></code>
 
