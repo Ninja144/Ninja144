@@ -51,15 +51,16 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 ### Education
 
-* Computer Networks. College of Entrepreneurship. Kaliningrad
+* College of Entrepreneurship. Computer Networks. Kaliningrad
 
 <br />
 
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Explore the GitLab CI tool
-* [x] Make a project using GitLab CI
-* [x] Study the Jenkins
 * [x] Deploy big data infrastructure
 * [x] Study the TeamCity tool
+* [x] Deploy microservice architecture
+* [ ] Study the Terraform tool
+* [ ] Self-develop
+
 <!-- TODO-IST:END -->
