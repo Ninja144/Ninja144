@@ -21,6 +21,9 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <a href="https://www.instagram.com/crazzy_144">
   <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
+<a href="http://crazzy144.club/">
+  <img align="left" alt="My CV" title="My CV" width="30px" src="https://raw.githubusercontent.com/CraZZy144/images/main/approved.png" />
+</a>
 <br />
 
 <br />
