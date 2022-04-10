@@ -18,7 +18,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <a href="https://t.me/Ninja_144">
   <img align="left" alt="Telegram" title="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
 </a>
-<a href="https://www.instagram.com/crazzy_144">
+<a href="https://www.instagram.com/ninja_144_">
   <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <a href="http://kubasov.pro/">
