@@ -6,7 +6,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 ### My contacts
 
-<a href="https://www.linkedin.com/in/crazzy144/">
+<a href="https://www.linkedin.com/in/ninja144/">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 </a>
 <a href="mailto:vadimkubs@gmail.com">
@@ -15,14 +15,14 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <a href="https://discord.gg/ArBGPjFf9k">
   <img align="left" alt="Discord" title="Discord" width="30px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" />
 </a>
-<a href="https://t.me/CraZZy_144">
+<a href="https://t.me/Ninja_144">
   <img align="left" alt="Telegram" title="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
 </a>
 <a href="https://www.instagram.com/crazzy_144">
   <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
-<a href="http://crazzy144.club/">
-  <img align="left" alt="My CV" title="My CV" width="30px" src="https://raw.githubusercontent.com/CraZZy144/images/main/approved.png" />
+<a href="http://kubasov.pro/">
+  <img align="left" alt="My website" title="My website" width="30px" src="https://raw.githubusercontent.com/CraZZy144/images/main/approved.png" />
 </a>
 <br />
 
