@@ -22,7 +22,7 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
   <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <a href="http://kubasov.pro/">
-  <img align="left" alt="My website" title="My website" width="30px" src="https://raw.githubusercontent.com/CraZZy144/images/main/approved.png" />
+  <img align="left" alt="My website" title="My website" width="30px" src="https://raw.githubusercontent.com/CraZZy144/images/main/web.png" />
 </a>
 <br />
 
