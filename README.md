@@ -1,4 +1,4 @@
-## Hello!
+## Hello! :wave:
   
 Hi, I'm Vadim and I'm DevOps engineer. 
 
