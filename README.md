@@ -49,7 +49,8 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 
 * March 2021 - May 2021.  DevOps Engineer Intern @ [Southbridge](https://southbridge.io)
 * August 2021 - October 2021.  System Engineer @ [Baltavtomatika](https://baltgps.ru)
-* October 2021 - Now.  DevOps Enginner @ [Neoflex](https://www.neoflex.ru/)
+* October 2021 - June 2022.  DevOps Enginner @ [Neoflex](https://www.neoflex.ru/)
+* June 2022 - Now.  Software Enginner @ [EPAM Systems](https://www.epam.com/)
 
 
 ### Education
