@@ -37,7 +37,6 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <code><img height="35" alt="Helm" title="Helm" src="https://i0.wp.com/dotsandbrackets.com/wp-content/uploads/2018/07/helm-logo.jpg?fit=1596%2C1626&ssl=1"></code>
 <code><img height="35" alt="GitLab CI" title="GitLab CI" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Jenkins" title="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png"></code>
-<code><img height="35" alt="VMware" title="VMware" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VMware_Workstation_Icon.png/640px-VMware_Workstation_Icon.png"></code>
 <code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
 <code><img height="35" alt="Cloudera (Apache Hadoop)" title="Cloudera (Apache Hadoop)" src="https://yt3.ggpht.com/ytc/AKedOLSyC0xU7DEnbw7NyFasin5l-Ukhubd4NVtsToNKig=s900-c-k-c0x00ffffff-no-rj"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
