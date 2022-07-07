@@ -62,8 +62,8 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 <!-- TODO-IST:START -->
 * [x] Deploy big data infrastructure
 * [x] Deploy microservice architecture
-* [] Get certificate AWS SysOps
-* [] Get certificate AWS DevOps
+* [ ] Get certificate AWS SysOps
+* [ ] Get certificate AWS DevOps
 * [x] **Self-develop ∞**
 
 <!-- TODO-IST:END -->
