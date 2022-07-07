@@ -61,9 +61,9 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Deploy big data infrastructure
-* [x] Study the TeamCity tool
 * [x] Deploy microservice architecture
-* [x] Study the Terraform tool
+* [] Get certificate AWS SysOps
+* [] Get certificate AWS DevOps
 * [x] **Self-develop ∞**
 
 <!-- TODO-IST:END -->
