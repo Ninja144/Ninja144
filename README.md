@@ -63,7 +63,8 @@ I am currently working with Apache Hadoop using the Cloudera distribution. I hav
 * [x] Deploy big data infrastructure
 * [x] Deploy microservice architecture
 * [ ] Get certificate AWS SysOps
-* [ ] Get certificate AWS DevOps
+* [ ] Design and deploy production architecture on AWS
+* [ ] Get certificate Terraform Associate
 * [x] **Self-develop ∞**
 
 <!-- TODO-IST:END -->
